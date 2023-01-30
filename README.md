@@ -1,9 +1,6 @@
 # learnyst-todo
 A simple todo app using react and redux-toolkit.
 
-## Demo
-![learnyst-todo](https://user-images.githubusercontent.com/56486295/215349164-0debb66a-61f1-420d-8894-d144c4e7028c.gif)
-
 
 ## Features
 - Add/Edit/Delete Todo
